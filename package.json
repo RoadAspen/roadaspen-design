@@ -1,0 +1,49 @@
+{
+  "name": "roadaspen-design",
+  "version": "1.0.0",
+  "description": "This is a component library based on react",
+  "keywords": [
+    "component",
+    "components",
+    "design",
+    "framework",
+    "frontend",
+    "react",
+    "react-components",
+    "library",
+    "ui"
+  ],
+  "author": "roadaspen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoadAspen/roadaspen-design/issues"
+  },
+  "homepage": "https://github.com/RoadAspen/roadaspen-design#readme",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoadAspen/roadaspen-design.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "",
+    "build": "",
+    "clean": "",
+    "compile": "",
+    "lint": "",
+    "version": "",
+    "tsc": "tsc --build"
+  },
+  "browserslist": [
+    "> 0.5%",
+    "last 2 versions",
+    "Firefox ESR",
+    "not dead"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
